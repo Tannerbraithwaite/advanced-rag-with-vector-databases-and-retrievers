@@ -4,7 +4,7 @@ This repository contains the course materials and projects for the IBM course on
 
 ## Overview
 
-This course covers advanced techniques in RAG systems, including:
+This repo covers advanced techniques in RAG systems, including:
 - Vector database integration
 - Advanced retrieval methods
 - Agentic AI implementations
